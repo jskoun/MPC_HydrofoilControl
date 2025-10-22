@@ -21,6 +21,8 @@ Tested MPC models include
 - Reference previewing (anticipative action)
 - Linear Parameter Varying (LPV) prediction models - Adaptive MPC for changing dynamics
 
+The block diagram below explains main functionality
+![System Diagram](figures/developed_environment.svg)
 
 ### Future work
 - [ ] Improve the hydrodynamic modelling capabilities by either moving to a physics engine, or introducing dynamic lifting line
