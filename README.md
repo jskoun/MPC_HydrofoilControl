@@ -12,8 +12,8 @@ The work is divided in two parts, with an intermediate step:
 A SIMULINK model is used for simulations, logging data for post-processing and assessing performance. 
 
 #### Control Methods
-Currently, *LQR* augmented with integral action, saturation and anti-windup is the simple, baseline model.
-Variants of *MPC* developed using the Matlab MPC Toolbox were tested and compared against the baseline model.
+Currently, **LQR** augmented with integral action, saturation and anti-windup is the simple, baseline model.
+Variants of **MPC** developed using the Matlab MPC Toolbox were tested and compared against the baseline model.
 
 Tested MPC models include
 - Input disturbance model to account for lifting surface offsets (induced by speed changes or modeling error)
