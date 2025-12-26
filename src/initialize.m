@@ -1,5 +1,5 @@
 addpath(genpath("implementation_control"))
-addpath(genpath("implementation_dynmodel"))
+addpath(genpath("implementation_dynamicmodel"))
 
 model_parameters
 % run make_linmodel_array
